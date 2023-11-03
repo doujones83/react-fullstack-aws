@@ -1,0 +1,12 @@
+{
+  "resourceName": "reactfullstackaws",
+  "policyUUID": "5fdc2a84",
+  "bucketName": "reactfullstackc6ad704b296043e1944246b1b4b74098",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "READ"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
